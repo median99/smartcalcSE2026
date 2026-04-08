@@ -168,12 +168,6 @@ Jika ingin berkontribusi:
 
 Proyek ini bersifat **open-source** untuk keperluan Sensus Ekonomi 2026. Silakan gunakan, modifikasi, dan distribusikan dengan tetap mencantumkan atribusi.
 
-## 📞 Kontak
-
-Untuk pertanyaan atau masukan terkait aplikasi ini, silakan hubungi tim pengembang melalui:
-- Email: [sensus.ekonomi@bps.go.id](mailto:sensus.ekonomi@bps.go.id)
-- Website: [https://sensus.bps.go.id](https://sensus.bps.go.id)
-
 ---
 
 **Disclaimer**: Aplikasi ini adalah alat bantu tidak resmi. Data yang dihasilkan harus diverifikasi dengan kondisi lapangan sebenarnya. BPS tidak bertanggung jawab atas kesalahan input atau interpretasi.
